@@ -7,8 +7,8 @@
 #define THZGenerateManyTypes
 #endif
 
-#include "THZGenerateZDoubleTypes.h"
-#include "THZGenerateZFloatTypes.h"
+#include "THZGenerateZDoubleType.h"
+#include "THZGenerateZFloatType.h"
 
 #ifdef THZAllLocalGenerateManyTypes
 #undef THZAllLocalGenerateManyTypes
